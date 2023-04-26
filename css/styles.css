@@ -1,0 +1,48 @@
+.image_1 {
+    background-image: url(https://cdn.pixabay.com/photo/2022/07/02/09/18/motorbikes-7296926_1280.jpg);
+}
+
+.image_2 {
+    background-image: url(https://cdn.pixabay.com/photo/2020/02/07/18/06/nature-4827952_1280.jpg);
+}
+
+.image_3 {
+    background-image: url(https://cdn.pixabay.com/photo/2017/05/31/21/43/mountains-2361750_1280.jpg);
+}
+
+.image_4 {
+    background-image: url(https://cdn.pixabay.com/photo/2021/10/05/04/45/sunset-6681770_1280.jpg);
+}
+
+.color_box{
+background-color:lightblue ;
+
+
+
+}
+
+h1{
+    font-family: 'Vina Sans', cursive;
+}
+h2{
+
+    font-family: 'Vina Sans', cursive;
+}
+
+body {
+    background-image: url(https://cdn.pixabay.com/photo/2012/08/27/14/19/mountains-55067_1280.png);
+   
+    }
+
+.parallax {
+    /* The image used */
+
+      /* Full height */
+      height: 100%;
+
+      /* Create the parallax scrolling effect */
+      background-attachment: fixed;
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size: cover;
+    }
